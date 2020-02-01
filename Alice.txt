@@ -1,1 +1,2 @@
+I just made a change.
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.

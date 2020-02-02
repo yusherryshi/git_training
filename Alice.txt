@@ -5,3 +5,4 @@ add a second line.
 =======
 merge divergent branches
 >>>>>>> bobby_branch
+rebasing

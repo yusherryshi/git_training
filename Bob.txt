@@ -1,1 +1,6 @@
-Hi!! I'm Bob. I've been here for a while now.
+<<<<<<< HEAD
+Hi!! I'm Bobby. I've been here for a while now.
+=======
+Hi!! I'm Bobby. I'm new here.
+Merge divergent branches
+>>>>>>> bobby_branch

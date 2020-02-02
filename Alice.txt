@@ -3,9 +3,12 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 <<<<<<< HEAD
 add a second line.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 merge divergent branches
 >>>>>>> bobby_branch
 =======
 make change online
 >>>>>>> ea8a4f47c08e7d71109326dc7c307ae82df4b48d
+=======
+>>>>>>> ada4e7110314c247011c7facb75f37b2f6ada72f

@@ -1,4 +1,9 @@
 I just made a change.
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-
+<<<<<<< HEAD
+add a second line.
+=======
+merge divergent branches
+>>>>>>> bobby_branch
+rebasing
 add remotely

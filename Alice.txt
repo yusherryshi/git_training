@@ -2,6 +2,10 @@ I just made a change.
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 <<<<<<< HEAD
 add a second line.
+<<<<<<< HEAD
 =======
 merge divergent branches
 >>>>>>> bobby_branch
+=======
+make change online
+>>>>>>> ea8a4f47c08e7d71109326dc7c307ae82df4b48d
